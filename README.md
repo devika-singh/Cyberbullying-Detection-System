@@ -1,2 +1,2 @@
 # Cyberbullying-Detection-System
-DA626 Class Team Project
+CS529 Class Team Project
